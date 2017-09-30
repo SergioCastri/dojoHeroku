@@ -5,7 +5,7 @@
 <h1>My firts PHP page</h1>
 
 <?php
-echo "Holi App Empresariles - Sergio Castrillon";
+echo "Holi App Empresariles - Sergio Castrillon Vasquez";
 ?>
 
 </body>
